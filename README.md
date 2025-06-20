@@ -1,5 +1,4 @@
 ## White Hat Hacker @ kakaostyle corp
----
 ### Vulnerability Advisories
 <img src="hall_of_fame.PNG" alt="Hall of Fame"/>
 
