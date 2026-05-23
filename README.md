@@ -7,3 +7,8 @@
 <img src="contributor.PNG" alt="Contributor"/>
 <br/>
 </div>
+
+### Security Contribution
+<img src="sec_contributor.jpeg" alt="Contributor"/>
+<br/>
+</div>
